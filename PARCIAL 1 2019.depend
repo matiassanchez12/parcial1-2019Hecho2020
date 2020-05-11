@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1588978580 source:c:\users\matukhan\desktop\parcial 1 2019\equipos.c
+	"equipos.h"
+
+1589064073 c:\users\matukhan\desktop\parcial 1 2019\equipos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"fecha.h"
+
+1588909339 c:\users\matukhan\desktop\parcial 1 2019\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588976226 source:c:\users\matukhan\desktop\parcial 1 2019\fecha.c
+	"fecha.h"
+
+1589064381 source:c:\users\matukhan\desktop\parcial 1 2019\genericas.c
+	"genericas.h"
+
+1589059575 c:\users\matukhan\desktop\parcial 1 2019\genericas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1588979547 source:c:\users\matukhan\desktop\parcial 1 2019\jugadores.c
+	"jugadores.h"
+
+1589064029 source:c:\users\matukhan\desktop\parcial 1 2019\partido.c
+	"partido.h"
+
+1589060028 source:c:\users\matukhan\desktop\parcial 1 2019\referi.c
+	"referi.h"
+
+1588909339 source:c:\users\matukhan\desktop\parcial 1 2019\utn.c
+	"utn.h"
+
+1589067773 source:c:\users\matukhan\desktop\parcial 1 2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"genericas.h"
+	"partido.h"
+
+1588981878 c:\users\matukhan\desktop\parcial 1 2019\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1589064073 c:\users\matukhan\desktop\parcial 1 2019\jugadores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"equipos.h"
+
+1589064152 c:\users\matukhan\desktop\parcial 1 2019\referi.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"jugadores.h"
+
+1589066274 c:\users\matukhan\desktop\parcial 1 2019\partido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"referi.h"
+
